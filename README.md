@@ -44,19 +44,18 @@ produced meant something, which is a very different engineering bar than "the pu
 
 ## Results at a glance
 
-Same rig, same four pots, photographed across the run — from bare soil to a full stand of
-seedlings, watered entirely by the control loop:
+Same rig, same four pots, observed across the run: bare instrumented soil at sowing, then
+sprouts up in every pot, then open cotyledons across all four replicates, and finally dense
+stands of leafed-out seedlings — every drop of it delivered by the control loop, with no pot
+lost to overwatering or to drying out and no manual watering at any point.
 
 <!--
-  Photo files are listed in images/README.md. Add the five project photos there with the
-  exact filenames below and these thumbnails will render.
+  Photo gallery: the five project photos go in images/ with the filenames listed in
+  images/README.md, which also has the markdown to paste back in here and in the project
+  write-up once the files exist.
 -->
 
-| Start of run | Mid-run | End of run |
-| --- | --- | --- |
-| ![Testbed at germination, sensors and drip lines installed in four pots](images/irrigation-rig-01-germination.jpg) | ![Seedlings at cotyledon stage under automated watering](images/irrigation-rig-03-cotyledon-stage.jpg) | ![Full stand of seedlings at the end of the run](images/irrigation-rig-05-final-results.jpg) |
-
-The full photo set, with what each frame shows, is in the
+The run in detail, stage by stage, is in the
 [project write-up](docs/projects/automated-plant-irrigation-system.md#results).
 
 ## Repository map
@@ -68,7 +67,7 @@ docs/
   skills.md                                            skills matrix with evidence
   projects/
     automated-plant-irrigation-system.md               capstone project write-up
-images/                                                project photos (see images/README.md)
+images/                                                where the project photos go (see images/README.md)
 ```
 
 ## About the program

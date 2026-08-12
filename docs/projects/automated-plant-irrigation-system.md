@@ -24,8 +24,6 @@ probe staked next to the seed line and its own water delivery line. A controller
 probes, decides when a pot is dry, and pulses water into just that pot — then waits for the
 soil to equilibrate before it trusts the sensor again. No one waters anything by hand.
 
-![The testbed early in the run: four pots on a tray, each with a soil-moisture probe and its own delivery line, sensor cabling routed back to the controller](../../images/irrigation-rig-01-germination.jpg)
-
 The taped sign in every photo reads *"please do not touch or move — research project."* That
 sign is the whole point of the build: the rig lived in a shared space and had to keep running
 correctly without supervision, because the plants were the measurement and any manual
@@ -116,17 +114,22 @@ Three details in there are the difference between a demo and an instrument:
 
 ## Results
 
-The photo sequence below is the result: the same four pots, watered only by the control loop,
+The observation series is the result: the same four pots, watered only by the control loop,
 from bare soil to a full stand of seedlings.
 
-| | |
+<!--
+  Photo gallery: the five frames below were photographed. Add the image files to images/
+  using the filenames in images/README.md, which also holds the gallery markdown to paste
+  back into this section.
+-->
+
+| Stage | What the rig looked like |
 | --- | --- |
-| ![Germination: bare soil with the first sprouts just breaking the surface, probes and delivery lines already installed in all four pots](../../images/irrigation-rig-01-germination.jpg) | ![Emergence: sprouts visible in every pot, delivery-line emitters fixed above the soil surface](../../images/irrigation-rig-02-emergence.jpg) |
-| **Germination.** Sensors, emitters, and cabling in place before anything sprouts, so no pot is disturbed once the run starts. | **Emergence.** Seedlings up in all four pots. Every pot is being fed by its own line from the shared reservoir. |
-| ![Cotyledon stage: multiple seedlings per pot with open cotyledons](../../images/irrigation-rig-03-cotyledon-stage.jpg) | ![True leaves: denser stands of larger seedlings across the tray](../../images/irrigation-rig-04-true-leaves.jpg) |
-| **Cotyledon stage.** Open cotyledons across all replicates — the loop is holding moisture in the germination band without waterlogging it. | **True leaves.** Stands thicken and leaf area grows; watering demand climbs and the sensor-driven loop tracks it without any change to the program. |
-| ![Final results: full green stands of seedlings in the pots at the end of the run](../../images/irrigation-rig-05-final-results.jpg) | |
-| **End of run.** Healthy, dense seedling stands grown start to finish on automated, sensor-triggered irrigation. | |
+| **Germination** | Probes, emitters, and cabling in place in all four pots before anything sprouted, so no pot had to be disturbed once the run started. Only the first sprouts breaking the surface. |
+| **Emergence** | Seedlings up in every pot, each still fed by its own delivery line off the shared reservoir. |
+| **Cotyledon stage** | Open cotyledons across all four replicates — the loop was holding moisture in the germination band without waterlogging it. |
+| **True leaves** | Stands thickened and leaf area grew. Watering demand climbed and the sensor-driven loop tracked it with no change to the program. |
+| **End of run** | Healthy, dense seedling stands, grown start to finish on automated, sensor-triggered irrigation. |
 
 What the sequence demonstrates:
 

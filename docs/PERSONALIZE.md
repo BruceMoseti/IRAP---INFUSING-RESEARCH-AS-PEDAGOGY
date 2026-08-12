@@ -11,7 +11,9 @@ numbers and names. Fix these and the write-up becomes airtight:
 ## Must do
 
 - [ ] Add the five project photos to `images/` with the filenames listed in
-      [`images/README.md`](../images/README.md). Nothing renders until this is done.
+      [`images/README.md`](../images/README.md), then paste the gallery markdown from that same
+      page back into the README and the project write-up. The write-ups currently describe the
+      run in words only, so the photos are the single biggest improvement available.
 - [ ] Confirm the cycle you completed and its dates, and put them at the top of
       [`docs/advanced-manufacturing-and-mechatronics-program.md`](advanced-manufacturing-and-mechatronics-program.md).
 - [ ] State whether the capstone was individual or a team build, and if it was a team, say what

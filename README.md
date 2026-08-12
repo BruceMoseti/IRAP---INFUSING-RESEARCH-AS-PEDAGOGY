@@ -9,8 +9,8 @@ to water from live soil-moisture readings, and streams temperature and humidity 
 dashboard. Built and tested end to end — hardware, wiring, control code, power system, and data
 pipeline — by a four-person student research team.
 
-📄 **[Read the published paper (PDF)](docs/paper/solar-powered-smart-irrigation-ucnj-urj-vol7-no1.pdf)** ·
-🔧 **[Full system and component breakdown](docs/system-and-components.md)**
+**[Read the published paper (PDF)](docs/paper/solar-powered-smart-irrigation-ucnj-urj-vol7-no1.pdf)** ·
+**[Full system and component breakdown](docs/system-and-components.md)**
 
 ---
 
